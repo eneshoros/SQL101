@@ -1,2 +1,2 @@
 # SQL101
-patika sql lessons
+*Patika sql lessons*
